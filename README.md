@@ -1,4 +1,4 @@
-# ProjectA
+
 
 <h2>Более подробная информация представлена в документе PZ_SewingРroduction.docx</h2>
 
